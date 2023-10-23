@@ -1,0 +1,14 @@
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\bin\Debug\net6.0\CsharpFirstTasks.exe
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\bin\Debug\net6.0\CsharpFirstTasks.deps.json
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\bin\Debug\net6.0\CsharpFirstTasks.runtimeconfig.json
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\bin\Debug\net6.0\CsharpFirstTasks.dll
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\bin\Debug\net6.0\CsharpFirstTasks.pdb
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\obj\Debug\net6.0\CsharpFirstTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\obj\Debug\net6.0\CsharpFirstTasks.AssemblyInfoInputs.cache
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\obj\Debug\net6.0\CsharpFirstTasks.AssemblyInfo.cs
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\obj\Debug\net6.0\CsharpFirstTasks.csproj.CoreCompileInputs.cache
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\obj\Debug\net6.0\CsharpFirstTasks.dll
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\obj\Debug\net6.0\refint\CsharpFirstTasks.dll
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\obj\Debug\net6.0\CsharpFirstTasks.pdb
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\obj\Debug\net6.0\CsharpFirstTasks.genruntimeconfig.cache
+C:\Users\nasib.ixtiyarli\Desktop\CsharpFirstTasks\CsharpFirstTasks\obj\Debug\net6.0\ref\CsharpFirstTasks.dll
